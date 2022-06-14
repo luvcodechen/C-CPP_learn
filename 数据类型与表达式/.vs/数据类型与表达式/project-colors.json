@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0ac2cd7-42a9-4db3-9272-b2b107f86e43": {
+      "ProjectGuid": "b0ac2cd7-42a9-4db3-9272-b2b107f86e43",
+      "DisplayName": "1.常量与变量",
+      "ColorIndex": 0
+    },
+    "23fe3dde-e5b7-465d-92c1-06f567a4bfc2": {
+      "ProjectGuid": "23fe3dde-e5b7-465d-92c1-06f567a4bfc2",
+      "DisplayName": "2.scanf的使用",
+      "ColorIndex": 1
+    },
+    "e41f774e-40ba-492f-a913-9b8104f05252": {
+      "ProjectGuid": "e41f774e-40ba-492f-a913-9b8104f05252",
+      "DisplayName": "3.进制转换",
+      "ColorIndex": 2
+    },
+    "90384c5b-eb23-4db3-8c1b-368ea068d8d9": {
+      "ProjectGuid": "90384c5b-eb23-4db3-8c1b-368ea068d8d9",
+      "DisplayName": "4.浮点型与字符型",
+      "ColorIndex": 3
+    },
+    "052d32f1-42a2-4d02-a7af-0eaeab2b7f6b": {
+      "ProjectGuid": "052d32f1-42a2-4d02-a7af-0eaeab2b7f6b",
+      "DisplayName": "5.字符型大小写转换",
+      "ColorIndex": 4
+    },
+    "8bb0f77e-cf93-4549-a207-91ce2e52aebb": {
+      "ProjectGuid": "8bb0f77e-cf93-4549-a207-91ce2e52aebb",
+      "DisplayName": "6.混合运算",
+      "ColorIndex": 5
+    },
+    "19b8e405-5a78-4ee6-80f9-b90130e6e891": {
+      "ProjectGuid": "19b8e405-5a78-4ee6-80f9-b90130e6e891",
+      "DisplayName": "7.scanf读取标输入缓冲区的原理",
+      "ColorIndex": 6
+    },
+    "c79b0eb7-528d-457d-ac9d-0fe010aacb2c": {
+      "ProjectGuid": "c79b0eb7-528d-457d-ac9d-0fe010aacb2c",
+      "DisplayName": "8.scanf读取两个整型数",
+      "ColorIndex": 7
+    },
+    "c553d34b-17b5-4b8a-a610-1372da0a7732": {
+      "ProjectGuid": "c553d34b-17b5-4b8a-a610-1372da0a7732",
+      "DisplayName": "判断闰年",
+      "ColorIndex": 8
+    },
+    "d677513b-e5a6-4c1a-8488-5491ed814db7": {
+      "ProjectGuid": "d677513b-e5a6-4c1a-8488-5491ed814db7",
+      "DisplayName": "10.掌握scanf循环读取",
+      "ColorIndex": 9
+    },
+    "1d579379-26bb-4d7a-ad66-dabfd7cfd945": {
+      "ProjectGuid": "1d579379-26bb-4d7a-ad66-dabfd7cfd945",
+      "DisplayName": "11.循环读取字符",
+      "ColorIndex": 10
+    },
+    "804121a8-5c88-48ce-8881-fd7b4dfdf903": {
+      "ProjectGuid": "804121a8-5c88-48ce-8881-fd7b4dfdf903",
+      "DisplayName": "12.scanf的混合输入",
+      "ColorIndex": 11
+    },
+    "5fdeda4a-fb97-4ff5-a9b4-3c51caa54ca1": {
+      "ProjectGuid": "5fdeda4a-fb97-4ff5-a9b4-3c51caa54ca1",
+      "DisplayName": "13.printf的使用",
+      "ColorIndex": 12
+    },
+    "617cc410-e9b1-4fed-8253-d216b5edc328": {
+      "ProjectGuid": "617cc410-e9b1-4fed-8253-d216b5edc328",
+      "DisplayName": "14.算符运算符",
+      "ColorIndex": 13
+    },
+    "99febb14-c7b8-4f09-ae46-e468522aa875": {
+      "ProjectGuid": "99febb14-c7b8-4f09-ae46-e468522aa875",
+      "DisplayName": "15.关系运算符",
+      "ColorIndex": 14
+    },
+    "02b86bbc-262b-4f42-aea3-797c97586822": {
+      "ProjectGuid": "02b86bbc-262b-4f42-aea3-797c97586822",
+      "DisplayName": "16.赋值运算符",
+      "ColorIndex": 15
+    },
+    "0005b26f-d45a-4aa1-9d2a-5d1b91a4ea5e": {
+      "ProjectGuid": "0005b26f-d45a-4aa1-9d2a-5d1b91a4ea5e",
+      "DisplayName": "17.自增自减运算符",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

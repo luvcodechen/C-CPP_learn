@@ -1,0 +1,3 @@
+﻿  main.c
+D:\codetest\数据类型与表达式\7.scanf读取标输入缓冲区的原理\main.c(9,8): warning C4101: “c”: 未引用的局部变量
+  7.scanf读取标输入缓冲区的原理.vcxproj -> D:\codetest\数据类型与表达式\x64\Debug\7.scanf读取标输入缓冲区的原理.exe
