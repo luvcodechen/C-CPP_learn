@@ -1,0 +1,6 @@
+﻿  一元多项式的表示及相加.c
+E:\codetest\线性表\一元多项式的表示及相加\一元多项式的表示及相加.c(214,20): warning C4305: “函数”: 从“double”到“float”截断
+E:\codetest\线性表\一元多项式的表示及相加\一元多项式的表示及相加.c(217,20): warning C4305: “函数”: 从“double”到“float”截断
+E:\codetest\线性表\一元多项式的表示及相加\一元多项式的表示及相加.c(220,20): warning C4305: “函数”: 从“double”到“float”截断
+E:\codetest\线性表\一元多项式的表示及相加\一元多项式的表示及相加.c(223,20): warning C4305: “函数”: 从“double”到“float”截断
+  一元多项式的表示及相加.vcxproj -> E:\codetest\线性表\Debug\一元多项式的表示及相加.exe
