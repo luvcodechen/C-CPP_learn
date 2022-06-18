@@ -1,0 +1,4 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(栈6_2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  栈.c
+E:\codetest\栈和队列\栈6_2\栈.c(71): warning C4715: “visit”: 不是所有的控件路径都返回值
+  栈6_2.vcxproj -> E:\codetest\栈和队列\x64\Debug\顺序栈6_2.exe
