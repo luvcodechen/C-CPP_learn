@@ -1,0 +1,7 @@
+﻿  main.c
+E:\codetest\c_pratice\猜数字\main.c(45,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  猜数字.vcxproj -> E:\codetest\c_pratice\Release\猜数字.exe
