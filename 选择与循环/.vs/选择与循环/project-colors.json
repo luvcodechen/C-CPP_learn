@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15e115ca-cf53-4f77-9e14-fa596d31ab33": {
+      "ProjectGuid": "15e115ca-cf53-4f77-9e14-fa596d31ab33",
+      "DisplayName": "1.if与else",
+      "ColorIndex": 0
+    },
+    "283e9d5b-723b-4932-9550-0a923fb66005": {
+      "ProjectGuid": "283e9d5b-723b-4932-9550-0a923fb66005",
+      "DisplayName": "2.while循环",
+      "ColorIndex": 1
+    },
+    "db43565a-23df-487e-b64b-1f5e189bb733": {
+      "ProjectGuid": "db43565a-23df-487e-b64b-1f5e189bb733",
+      "DisplayName": "3.for循环",
+      "ColorIndex": 2
+    },
+    "57f6fb62-8cfa-4fb0-a53a-2737a8e5559d": {
+      "ProjectGuid": "57f6fb62-8cfa-4fb0-a53a-2737a8e5559d",
+      "DisplayName": "4.continue",
+      "ColorIndex": 3
+    },
+    "1dcff46f-8374-4ef2-9d34-6ed24288fe06": {
+      "ProjectGuid": "1dcff46f-8374-4ef2-9d34-6ed24288fe06",
+      "DisplayName": "5.break语句",
+      "ColorIndex": 4
+    },
+    "3001610f-af3c-4a04-96f4-71a273901bd8": {
+      "ProjectGuid": "3001610f-af3c-4a04-96f4-71a273901bd8",
+      "DisplayName": "6.练习题",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
