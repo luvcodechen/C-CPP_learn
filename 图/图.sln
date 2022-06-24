@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的邻接矩阵表示", "图的邻接矩阵表示\图的邻接矩阵表示.vcxproj", "{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的邻接表表示以及深度和广度搜索遍历", "图的邻接表表示以及深度和广度搜索遍历\图的邻接表表示以及深度和广度搜索遍历.vcxproj", "{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Debug|x64.ActiveCfg = Debug|x64
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Debug|x64.Build.0 = Debug|x64
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Debug|x86.Build.0 = Debug|Win32
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Release|x64.ActiveCfg = Release|x64
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Release|x64.Build.0 = Release|x64
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Release|x86.ActiveCfg = Release|Win32
+		{EFAAB08C-2EB2-41AE-A9E7-B2383C12CBC7}.Release|x86.Build.0 = Release|Win32
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Debug|x64.ActiveCfg = Debug|x64
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Debug|x64.Build.0 = Debug|x64
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Debug|x86.Build.0 = Debug|Win32
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Release|x64.ActiveCfg = Release|x64
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Release|x64.Build.0 = Release|x64
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Release|x86.ActiveCfg = Release|Win32
+		{BDC530AE-8495-42C0-A1BE-A4F4FB0E3046}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9961DBA5-6F3A-4CE3-A6A3-98DD284DB80C}
+	EndGlobalSection
+EndGlobal

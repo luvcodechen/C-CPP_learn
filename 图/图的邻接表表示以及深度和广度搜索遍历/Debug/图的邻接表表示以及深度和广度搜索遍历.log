@@ -1,0 +1,7 @@
+﻿  main.c
+E:\codetest\图\图的邻接表表示以及深度和广度搜索遍历\main.c(58,19): warning C4133: “=”: 从“Lnode *”到“PLNode”的类型不兼容
+E:\codetest\图\图的邻接表表示以及深度和广度搜索遍历\main.c(59,21): warning C4133: “=”: 从“PLNode”到“Lnode *”的类型不兼容
+E:\codetest\图\图的邻接表表示以及深度和广度搜索遍历\main.c(237,26): warning C4133: “=”: 从“Lnode *”到“PLNode”的类型不兼容
+E:\codetest\图\图的邻接表表示以及深度和广度搜索遍历\main.c(253,25): warning C4133: “=”: 从“Lnode *”到“PLNode”的类型不兼容
+E:\codetest\图\图的邻接表表示以及深度和广度搜索遍历\main.c(303,27): warning C4133: “=”: 从“Lnode *”到“PLNode”的类型不兼容
+  图的邻接表表示以及深度和广度搜索遍历.vcxproj -> E:\codetest\图\Debug\图的邻接表表示以及深度和广度搜索遍历.exe
