@@ -1,0 +1,3 @@
+﻿  main.c
+E:\codetest\文件操作\文件的开合\main.c(11,7): warning C4101: “a”: 未引用的局部变量
+  文件的开合.vcxproj -> E:\codetest\文件操作\x64\Debug\文件的开合.exe
