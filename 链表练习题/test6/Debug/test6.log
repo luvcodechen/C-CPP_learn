@@ -1,0 +1,5 @@
+﻿  test6.c
+E:\cskaoyan\链表练习题\test6\test6.c(93,18): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+E:\cskaoyan\链表练习题\test6\test6.c(96,42): warning C4047: “<”:“ElemType”与“ElemType *”的间接级别不同
+E:\cskaoyan\链表练习题\test6\test6.c(100,20): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+  test6.vcxproj -> E:\cskaoyan\链表练习题\Debug\test6.exe
