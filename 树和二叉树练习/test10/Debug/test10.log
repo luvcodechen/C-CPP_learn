@@ -1,0 +1,4 @@
+﻿  test.c
+E:\cskaoyan\树和二叉树练习\test10\test.c(142,3): warning C4033: “pre_ordercreate”必须返回值
+E:\cskaoyan\树和二叉树练习\test10\test.c(150): warning C4715: “pre_ordercreate”: 不是所有的控件路径都返回值
+  test10.vcxproj -> E:\cskaoyan\树和二叉树练习\Debug\test10.exe
