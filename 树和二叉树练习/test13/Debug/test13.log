@@ -1,0 +1,5 @@
+﻿  test13.c
+E:\cskaoyan\树和二叉树练习\test13\test13.c(72,19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\cskaoyan\树和二叉树练习\test13\test13.c(172,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\cskaoyan\树和二叉树练习\test13\test13.c(189): warning C4715: “isresemble”: 不是所有的控件路径都返回值
+  test13.vcxproj -> E:\cskaoyan\树和二叉树练习\Debug\test13.exe
