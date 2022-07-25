@@ -1,0 +1,3 @@
+﻿  insert.c
+E:\cskaoyan\排序练习\插入排序\insert.c(69,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  插入排序.vcxproj -> E:\cskaoyan\排序练习\Debug\插入排序.exe
